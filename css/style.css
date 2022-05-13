@@ -1,4 +1,4 @@
-﻿*, ::after, ::before {
+*, ::after, ::before {
   box-sizing: border-box;
   text-decoration: none;
   margin: 0px;
@@ -116,7 +116,7 @@ color: #10101;
 
 .pic-container {
  
-  background: url("../img/slider.jpg");
+  background-image: url("../img/slider.jpg");
   width: 100%;
   height: 795px;
   background-size: cover;
