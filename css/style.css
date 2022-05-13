@@ -139,7 +139,7 @@ color: #10101;
 font-size: 88px;
 margin-top: 8px;
 margin-bottom: 0px;
-color: #FF9220;
+color: #FFA445;
 }
 
 .header-text h2 {
@@ -194,7 +194,7 @@ color: #000;
 }
 
 .header-text .log-in:hover {
-border: 1px solid #FF9220;
+border: 1px solid #FFA445;
 color: #fff;
 background: linear-gradient(45deg, #E97E1D 0%, #FF9220 50%, #FF9200 100%);
 }
