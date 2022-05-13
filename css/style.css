@@ -50,10 +50,10 @@ body{
   color: #fff;
 }
 
-.left-info ul li a:hover, .right-info ul li a:hover {
-  color: #ccc;
-}
 
+.left-info ul li a:hover, .right-info ul li i:hover {
+color: #FFA445;
+}
 
 .right-info ul li span {
   border-right: 1px solid #fff;
@@ -64,6 +64,10 @@ body{
 .left-info ul li i, .right-info ul li i {
   padding-right: 5px;
   color: #fff;
+}
+
+.left-info ul li a i:hover {
+color: #FFA445;
 }
 
 .container {
@@ -105,6 +109,7 @@ body{
 }
 
 
+
 .right-nav ul a:hover, .right-nav a i:hover {
 color: #106eea;
 cursor: pointer;
@@ -115,7 +120,7 @@ color: #10101;
 }
 
 .pic-container {
- 
+
   background-image: url("../img/slider.jpg");
   width: 100%;
   height: 795px;
@@ -186,7 +191,7 @@ margin-top: 8px;
 
 .header-text .btn .about-btn:hover {
   background-color: #e5e5e5;
-  
+
 }
 
 .header-text .about-btn:focus {
