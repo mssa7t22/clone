@@ -117,7 +117,7 @@ color: #10101;
 .pic-container {
   width: 100%;
   height: 795px;
-  background: url('../img/slider-1-1.JPG');
+  background: url("../img/slider-1-1.JPG");
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;
