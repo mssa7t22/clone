@@ -168,7 +168,7 @@ margin-top: 8px;
   border-radius: 8px;
   font-size: 14px;
   color: #106eea;
-  border: 1px solid #106eea;
+  border: 1px solid #darkgrey;
   font-weight: bold;
 }
 
@@ -185,6 +185,7 @@ margin-top: 8px;
 
 .header-text .btn .about-btn:hover {
   background-color: #e5e5e5;
+  
 }
 
 .header-text .about-btn:focus {
@@ -192,6 +193,7 @@ color: #000;
 }
 
 .header-text .log-in:hover {
+border: 1px solid #FF9220;
 color: #fff;
 background: linear-gradient(45deg, #E97E1D 0%, #FF9220 50%, #FF9200 100%);
 }
